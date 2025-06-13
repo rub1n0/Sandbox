@@ -9,7 +9,7 @@ dist/
 *.egg-info/
 
 # Windows Sandbox generated files
-sandbox_env/
+/sandbox_env
 
 # Installer downloads
 *.exe
